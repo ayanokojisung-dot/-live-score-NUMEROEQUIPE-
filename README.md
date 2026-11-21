@@ -37,6 +37,9 @@ Le classement est base sur les resultats des matchs.
 - Git
 - GitHub
 
+## 6. Objectif du projet
+
+Permettre de suivre facilement les resultats et le classement de la Coupe des Filieres.
 
 
 
